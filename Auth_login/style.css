@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #fff8f0; /* Soft off-white with a hint of tomato */
+    background: #fff8f0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,16 +11,16 @@ body {
 .form-container {
     background: white;
     padding: 25px;
-    border-radius: 30px; /* Round borders to mimic a circular shape */
+    border-radius: 30px; 
     box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
     width: 320px;
     text-align: center;
-    border: 2px solid #8dbd45; /* Tomato green border */
+    border: 2px solid #8dbd45;
 }
 
 h2 {
     margin-bottom: 20px;
-    color: #b94c2a; /* Darker tomato red */
+    color: #b94c2a; 
 }
 
 input {
@@ -28,16 +28,16 @@ input {
     padding: 12px;
     margin: 8px 0;
     border: 1px solid #f1a7a1; /* Soft light tomato */
-    border-radius: 20px; /* Round borders for a softer look */
+    border-radius: 20px; 
     font-size: 14px;
 }
 
 button {
-    background: #e84e56; /* Darker tomato pinkish-red */
+    background: #e84e56;
     color: white;
     border: none;
     padding: 12px 15px;
-    border-radius: 20px; /* Rounded corners for a more tomato-like shape */
+    border-radius: 20px; 
     cursor: pointer;
     margin-top: 10px;
     width: 100%;
@@ -46,11 +46,11 @@ button {
 }
 
 button:hover {
-    background: #f05b7f; /* Slightly darker tomato red */
+    background: #f05b7f;
 }
 
 a {
-    color: #8dbd45; /* Tomato green */
+    color: #8dbd45; 
     text-decoration: none;
     font-size: 14px;
 }
@@ -61,9 +61,10 @@ a:hover {
 
 p {
     margin-top: 12px;
-    color: #b94c2a; /* Darker tomato red for text */
+    color: #b94c2a;
 }
 
 .green-text {
-    color: #8dbd45; /* Tomato green for additional accents */
+    color: #8dbd45; 
 }
+
