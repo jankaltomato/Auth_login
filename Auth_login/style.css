@@ -27,7 +27,7 @@ input {
     width: 90%;
     padding: 12px;
     margin: 8px 0;
-    border: 1px solid #f1a7a1; /* Soft light tomato */
+    border: 1px solid #f1a7a1; 
     border-radius: 20px; 
     font-size: 14px;
 }
@@ -67,4 +67,5 @@ p {
 .green-text {
     color: #8dbd45; 
 }
+
 
